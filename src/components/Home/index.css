@@ -1,0 +1,30 @@
+.home-container {
+  background-image: url('https://assets.ccbp.in/frontend/react-js/home-lg-bg.png');
+  background-size: cover;
+  height: 100vh;
+}
+
+.home-heading {
+  color: white;
+  margin: 0;
+  font-size: 50px;
+  margin-left: 50px;
+}
+
+.home-description {
+  color: white;
+  margin-left: 50px;
+}
+
+.shop-now-button {
+  background-color: #6366f1;
+  color: white;
+  font-weight: 700;
+  border: 0;
+  border-radius: 5px;
+  width: 90px;
+  height: 40px;
+  margin-right: 30px;
+  margin-left: 50px;
+  margin-top: 15px;
+}

@@ -1,0 +1,25 @@
+.TypeOfEmploymentClassName {
+  color: white;
+}
+
+.salary-heading {
+  color: white;
+  margin-left: 50px;
+}
+
+.employmentType-item {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.filters-group-container {
+  background-color: black;
+  height: 100vh;
+}
+
+.checkbox-list-items {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}

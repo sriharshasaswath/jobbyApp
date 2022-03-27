@@ -1,0 +1,55 @@
+.para {
+  color: white;
+  font-family: 'Roboto';
+}
+
+.card-heading {
+  display: flex;
+  flex-direction: row;
+}
+
+.card-sub-heading {
+  display: flex;
+  flex-direction: row;
+}
+
+.product-item {
+  background-color: #272727;
+  border-radius: 15px;
+  padding: 20px;
+  margin-bottom: 20px;
+  width: 60vw;
+}
+
+.logo-img {
+  height: 60px;
+  width: 60px;
+}
+
+.logo-title {
+  margin: 0;
+  margin-left: 10px;
+}
+
+.star {
+  color: gold;
+  margin-left: 10px;
+  margin-right: 5px;
+}
+
+.location {
+  margin-right: 8px;
+}
+.description {
+  font-size: 14px;
+}
+
+.package {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.link-item {
+  text-decoration: none;
+  color: white;
+}
